@@ -1,0 +1,11 @@
+C:\Users\Admin\RiderProjects\Bai_Thi\Bai_Thi\obj\Debug\netcoreapp2.1\Bai_Thi.csprojAssemblyReference.cache
+C:\Users\Admin\RiderProjects\Bai_Thi\Bai_Thi\obj\Debug\netcoreapp2.1\Bai_Thi.csproj.CoreCompileInputs.cache
+C:\Users\Admin\RiderProjects\Bai_Thi\Bai_Thi\obj\Debug\netcoreapp2.1\Bai_Thi.AssemblyInfoInputs.cache
+C:\Users\Admin\RiderProjects\Bai_Thi\Bai_Thi\obj\Debug\netcoreapp2.1\Bai_Thi.AssemblyInfo.cs
+C:\Users\Admin\RiderProjects\Bai_Thi\Bai_Thi\bin\Debug\netcoreapp2.1\Bai_Thi.deps.json
+C:\Users\Admin\RiderProjects\Bai_Thi\Bai_Thi\bin\Debug\netcoreapp2.1\Bai_Thi.runtimeconfig.json
+C:\Users\Admin\RiderProjects\Bai_Thi\Bai_Thi\bin\Debug\netcoreapp2.1\Bai_Thi.runtimeconfig.dev.json
+C:\Users\Admin\RiderProjects\Bai_Thi\Bai_Thi\bin\Debug\netcoreapp2.1\Bai_Thi.dll
+C:\Users\Admin\RiderProjects\Bai_Thi\Bai_Thi\bin\Debug\netcoreapp2.1\Bai_Thi.pdb
+C:\Users\Admin\RiderProjects\Bai_Thi\Bai_Thi\obj\Debug\netcoreapp2.1\Bai_Thi.dll
+C:\Users\Admin\RiderProjects\Bai_Thi\Bai_Thi\obj\Debug\netcoreapp2.1\Bai_Thi.pdb
